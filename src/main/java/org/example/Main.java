@@ -1,4 +1,4 @@
-import org.example.LoginWindow;
+import main.java.org.example.LoginWindow;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;
